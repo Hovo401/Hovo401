@@ -6,6 +6,7 @@
   I care about secure, fast software and modern engineering practices across the entire stack.
 </p>
 
+
 <p align="center">
   <a href="https://gsap-demo.onrender.com/">
   <img src="https://img.shields.io/badge/Live_Demo-FF5733?style=for-the-badge&logo=vercel&logoColor=white" alt="GSAP Live Demo" alt="Live_Demo"/>
